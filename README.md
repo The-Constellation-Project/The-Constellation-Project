@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <!-- Header image ⚠ Update to self-hosted URL & fix alignment ⚠ -->
-  <img src="https://media.discordapp.net/attachments/1276560804799447082/1286073331887378462/Banner.png?ex=66ec94a0&is=66eb4320&hm=6d6bd7a5ee4e697eb5e6cbd9306191389d26aa4b527c4bd389f35ffa5e54f5f5&=&format=webp&quality=lossless&width=1920&height=534" width="1024"/>
+  <img src="https://media.discordapp.net/attachments/1276560804799447082/1286073331887378462/Banner.png?ex=6701aca0&is=67005b20&hm=436c6ca264aca48eff02eec551c7c319f3fd655e0ef4f7490446bceb956f2d33&=&format=webp&quality=lossless&width=960&height=267 width="1024"/>
   <!-- Profile badges generated with help of https://michaelcurrin.github.io/badge-generator/ and https://simpleicons.org/ -->
   <div id="badges">
     <a href="https://mastodon.social/@ConstellationProject">
