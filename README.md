@@ -5,10 +5,10 @@
   <div id="badges">
     <a href="https://mastodon.social/@ConstellationProject">
       <img src="https://img.shields.io/badge/Mastodon-6364FF?logo=mastodon&logoColor=FFFFFF" alt="Mastodon">
-    </a>   
+    </a> | 
     <a href="https://www.youtube.com/@ConstellationProject">
       <img src="https://img.shields.io/static/v1?label=&message=Youtube&color=%23FF0000&logo=youtube&logoColor=FFFFFF" alt="Youtube">
-    </a>   
+    </a> | 
     <a href="https://discord.gg/5HauTN6anW">
       <img src="https://img.shields.io/static/v1?label=&message=Discord&color=5865F2&logo=discord&logoColor=FFFFFF" alt="Discord">
     </a>
