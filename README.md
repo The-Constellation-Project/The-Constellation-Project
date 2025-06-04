@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <h1>Official Github for The Constellation Project</h1>
+  <h1>Official Github for Constellation</h1>
   Utility and quality of life mods for Minecraft
   <br><br>
   <!-- Profile badge generated with help of https://michaelcurrin.github.io/badge-generator/ -->
