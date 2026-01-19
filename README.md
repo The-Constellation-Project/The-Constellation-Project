@@ -9,7 +9,7 @@
     <a href="https://www.youtube.com/@ConstellationProject">
       <img src="https://img.shields.io/static/v1?label=&message=Youtube&color=%23FF0000&logo=youtube&logoColor=FFFFFF" alt="Youtube">
     </a>          
-    <!-- <a href="https://discord.gg/5HauTN6anW">
+    <!-- <a href="https://discord.gg/">
       <img src="https://img.shields.io/static/v1?label=&message=Discord&color=5865F2&logo=discord&logoColor=FFFFFF" alt="Discord">
     </a> -->
   </div>
@@ -17,7 +17,6 @@
 
 <div align="center">
   <h1>Official Github for Constellation</h1>
-  Utility and quality of life mods for Minecraft
   <br><br>
   <!-- Profile badge generated with help of https://michaelcurrin.github.io/badge-generator/ -->
   <!-- <img src="https://img.shields.io/badge/Forge-1.8.9-purple" alt="Forge - 1.8.9"> -->
